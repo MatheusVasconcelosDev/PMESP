@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PMESMP.Domain.Core/1.0.0": {
+        "dependencies": {
+          "PMESP.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PMESMP.Domain.Core.dll": {}
+        }
+      },
+      "PMESP.Domain/1.0.0": {
+        "runtime": {
+          "PMESP.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PMESMP.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PMESP.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

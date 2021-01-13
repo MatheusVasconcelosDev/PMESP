@@ -1,0 +1,37 @@
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.Services.deps.json
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.Services.dll
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.Services.pdb
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.csprojAssemblyReference.cache
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.AssemblyInfo.cs
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.dll
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.pdb
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.csprojAssemblyReference.cache
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.AssemblyInfo.cs
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.Services.deps.json
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.Services.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.Services.pdb
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.Core.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.Core.pdb
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.pdb
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.csproj.CopyComplete
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.Services.deps.json
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.Services.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.Services.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.Core.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.Core.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\bin\Debug\netcoreapp3.1\PMESP.Domain.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.csprojAssemblyReference.cache
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.AssemblyInfo.cs
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.csproj.CopyComplete
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Domain.Services\obj\Debug\netcoreapp3.1\PMESP.Domain.Services.pdb

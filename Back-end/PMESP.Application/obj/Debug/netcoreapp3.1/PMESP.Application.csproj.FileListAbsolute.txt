@@ -1,0 +1,37 @@
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Application.deps.json
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Application.dll
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Application.pdb
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.csprojAssemblyReference.cache
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.AssemblyInfoInputs.cache
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.AssemblyInfo.cs
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.csproj.CoreCompileInputs.cache
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.dll
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.pdb
+C:\Users\p38779\Documents\PMESP\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.csprojAssemblyReference.cache
+C:\Users\p38779\Documents\PMESP\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.AssemblyInfoInputs.cache
+C:\Users\p38779\Documents\PMESP\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.AssemblyInfo.cs
+C:\Users\p38779\Documents\PMESP\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.csproj.CoreCompileInputs.cache
+C:\Users\p38779\Documents\PMESP\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Application.deps.json
+C:\Users\p38779\Documents\PMESP\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Application.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Application.pdb
+C:\Users\p38779\Documents\PMESP\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Domain.Core.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Domain.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Domain.Core.pdb
+C:\Users\p38779\Documents\PMESP\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Domain.pdb
+C:\Users\p38779\Documents\PMESP\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.csproj.CopyComplete
+C:\Users\p38779\Documents\PMESP\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Application.deps.json
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Application.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Application.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Domain.Core.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Domain.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Domain.Core.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\bin\Debug\netcoreapp3.1\PMESP.Domain.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.csprojAssemblyReference.cache
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.AssemblyInfoInputs.cache
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.AssemblyInfo.cs
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.csproj.CoreCompileInputs.cache
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.csproj.CopyComplete
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Application\obj\Debug\netcoreapp3.1\PMESP.Application.pdb

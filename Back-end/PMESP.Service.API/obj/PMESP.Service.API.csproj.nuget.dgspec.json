@@ -1,0 +1,388 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Service.API\\PMESP.Service.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESMP.Domain.Core\\PMESP.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESMP.Domain.Core\\PMESP.Domain.Core.csproj",
+        "projectName": "PMESP.Domain.Core",
+        "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESMP.Domain.Core\\PMESP.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\p38779\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESMP.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\p38779\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain\\PMESP.Domain.csproj": {
+                "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain\\PMESP.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Application\\PMESP.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Application\\PMESP.Application.csproj",
+        "projectName": "PMESP.Application",
+        "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Application\\PMESP.Application.csproj",
+        "packagesPath": "C:\\Users\\p38779\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\p38779\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESMP.Domain.Core\\PMESP.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESMP.Domain.Core\\PMESP.Domain.Core.csproj"
+              },
+              "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain\\PMESP.Domain.csproj": {
+                "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain\\PMESP.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain.Services\\PMESP.Domain.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain.Services\\PMESP.Domain.Services.csproj",
+        "projectName": "PMESP.Domain.Services",
+        "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain.Services\\PMESP.Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\p38779\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\p38779\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESMP.Domain.Core\\PMESP.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESMP.Domain.Core\\PMESP.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain\\PMESP.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain\\PMESP.Domain.csproj",
+        "projectName": "PMESP.Domain",
+        "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain\\PMESP.Domain.csproj",
+        "packagesPath": "C:\\Users\\p38779\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\p38779\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Infrastructure\\PMESP.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Infrastructure\\PMESP.Infrastructure.csproj",
+        "projectName": "PMESP.Infrastructure",
+        "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Infrastructure\\PMESP.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\p38779\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\p38779\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESMP.Domain.Core\\PMESP.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESMP.Domain.Core\\PMESP.Domain.Core.csproj"
+              },
+              "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Application\\PMESP.Application.csproj": {
+                "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Application\\PMESP.Application.csproj"
+              },
+              "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain.Services\\PMESP.Domain.Services.csproj": {
+                "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain.Services\\PMESP.Domain.Services.csproj"
+              },
+              "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain\\PMESP.Domain.csproj": {
+                "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Domain\\PMESP.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Service.API\\PMESP.Service.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Service.API\\PMESP.Service.API.csproj",
+        "projectName": "PMESP.Service.API",
+        "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Service.API\\PMESP.Service.API.csproj",
+        "packagesPath": "C:\\Users\\p38779\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Service.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\p38779\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Application\\PMESP.Application.csproj": {
+                "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Application\\PMESP.Application.csproj"
+              },
+              "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Infrastructure\\PMESP.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\p38779\\Documents\\PMESP\\Back-end\\PMESP.Infrastructure\\PMESP.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

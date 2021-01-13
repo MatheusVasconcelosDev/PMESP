@@ -1,0 +1,21 @@
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESMP.Domain.Core\bin\Debug\netcoreapp3.1\PMESMP.Domain.Core.deps.json
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESMP.Domain.Core\bin\Debug\netcoreapp3.1\PMESMP.Domain.Core.dll
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESMP.Domain.Core\bin\Debug\netcoreapp3.1\PMESMP.Domain.Core.pdb
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESMP.Domain.Core\obj\Debug\netcoreapp3.1\PMESMP.Domain.Core.csprojAssemblyReference.cache
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESMP.Domain.Core\obj\Debug\netcoreapp3.1\PMESMP.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESMP.Domain.Core\obj\Debug\netcoreapp3.1\PMESMP.Domain.Core.AssemblyInfo.cs
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESMP.Domain.Core\obj\Debug\netcoreapp3.1\PMESMP.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESMP.Domain.Core\obj\Debug\netcoreapp3.1\PMESMP.Domain.Core.dll
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESMP.Domain.Core\obj\Debug\netcoreapp3.1\PMESMP.Domain.Core.pdb
+C:\Users\p38779\Documents\PMESP\PMESMP.Domain.Core\bin\Debug\netcoreapp3.1\PMESMP.Domain.Core.deps.json
+C:\Users\p38779\Documents\PMESP\PMESMP.Domain.Core\bin\Debug\netcoreapp3.1\PMESMP.Domain.Core.dll
+C:\Users\p38779\Documents\PMESP\PMESMP.Domain.Core\bin\Debug\netcoreapp3.1\PMESMP.Domain.Core.pdb
+C:\Users\p38779\Documents\PMESP\PMESMP.Domain.Core\obj\Debug\netcoreapp3.1\PMESMP.Domain.Core.csprojAssemblyReference.cache
+C:\Users\p38779\Documents\PMESP\PMESMP.Domain.Core\obj\Debug\netcoreapp3.1\PMESMP.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\p38779\Documents\PMESP\PMESMP.Domain.Core\obj\Debug\netcoreapp3.1\PMESMP.Domain.Core.AssemblyInfo.cs
+C:\Users\p38779\Documents\PMESP\PMESMP.Domain.Core\obj\Debug\netcoreapp3.1\PMESMP.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\p38779\Documents\PMESP\PMESMP.Domain.Core\obj\Debug\netcoreapp3.1\PMESMP.Domain.Core.dll
+C:\Users\p38779\Documents\PMESP\PMESMP.Domain.Core\obj\Debug\netcoreapp3.1\PMESMP.Domain.Core.pdb
+C:\Users\p38779\Documents\PMESP\PMESMP.Domain.Core\bin\Debug\netcoreapp3.1\PMESP.Domain.dll
+C:\Users\p38779\Documents\PMESP\PMESMP.Domain.Core\bin\Debug\netcoreapp3.1\PMESP.Domain.pdb
+C:\Users\p38779\Documents\PMESP\PMESMP.Domain.Core\obj\Debug\netcoreapp3.1\PMESMP.Domain.Core.csproj.CopyComplete

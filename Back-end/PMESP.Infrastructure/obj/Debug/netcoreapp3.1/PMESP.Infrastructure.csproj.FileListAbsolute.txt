@@ -1,0 +1,40 @@
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.csprojAssemblyReference.cache
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.AssemblyInfo.cs
+C:\Users\NAJA INFORMATICA\source\repos\PMESP\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.AssemblyInfo.cs
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.csprojAssemblyReference.cache
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Infrastructure.deps.json
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Infrastructure.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Infrastructure.pdb
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Application.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Domain.Core.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Domain.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Domain.Services.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Domain.Core.pdb
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Application.pdb
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Domain.Services.pdb
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Domain.pdb
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.csproj.CopyComplete
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.dll
+C:\Users\p38779\Documents\PMESP\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Infrastructure.deps.json
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Infrastructure.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Infrastructure.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Application.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Domain.Core.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Domain.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Domain.Services.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Domain.Core.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Application.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Domain.Services.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\bin\Debug\netcoreapp3.1\PMESP.Domain.pdb
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.csprojAssemblyReference.cache
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.AssemblyInfo.cs
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.csproj.CopyComplete
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.dll
+C:\Users\p38779\Documents\PMESP\Back-end\PMESP.Infrastructure\obj\Debug\netcoreapp3.1\PMESP.Infrastructure.pdb
